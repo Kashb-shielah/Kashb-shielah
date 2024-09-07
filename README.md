@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning web development fullstack
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: email me at kakyobridget7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Kashb-shielah/Kashb-shielah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
